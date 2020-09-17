@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cgd.cohostclub",
+    "sha256_cert_fingerprints":
+    ["75:93:48:7A:D8:CF:4F:C4:52:57:04:74:02:4B:F4:2B:5A:60:CD:0E:2A:90:04:02:BC:F9:7D:15:85:F7:BE:58"]
+  }
+}]
